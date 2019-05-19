@@ -1,0 +1,125 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200737-ICSD
+_database_code_ICSD 200737
+_audit_creation_date 1981-12-31
+_audit_update_record 2008-08-01
+_chemical_name_systematic
+'Dihydrogen tetrarubidium aquahenicosatungstodiarsenate(III) pentadecahydrate'
+_chemical_formula_structural 'H2 Rb4 (As2 W21 O69 (H2 O)) (H2 O)34'
+_chemical_formula_sum 'H72 As2 O104 Rb4 W21'
+_exptl_crystal_density_diffrn 4.34
+_publ_section_title
+
+;
+Tungsten-183 NMR and X-ray study of a heteropolyanion (As2 W21 O69 (H2 O))6-
+exhibiting a rare square-pyramidal environment for some tungsten(VI)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1981 103 1664 1667 JACSAT
+loop_
+_publ_author_name
+'Jeannin, Y.P.'
+'Martin-Frere, J.'
+_cell_length_a 16.9260(70)
+_cell_length_b 16.9260(70)
+_cell_length_c 18.767(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 4656.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.059
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+As3+ 3
+Rb1+ 1
+O2- -2
+Rb1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 12 k 0.4059(1) -.4059(1) -.0627(1) . 1. 0
+W2 W6+ 24 l 0.1213(1) -.5382(1) 0.0830(1) . 1. 0
+W3 W6+ 6 h 0.2300(3) -.2300(3) 0.25 . 0.6667 0
+W4 W6+ 6 h 0.2489(10) -.2489(10) 0.25 . 0.3333 0
+As1 As3+ 4 f 0.33333 -.33333 0.1064(5) . 1. 0
+Rb1 Rb1+ 6 h 0.4970(5) -.4970(5) 0.25 . 1. 0
+O1 O2- 12 k 0.387(2) -.387(2) 0.064(2) 1.9 1. 0
+O2 O2- 12 k 0.281(2) -.281(2) -.070(2) 3.9 1. 0
+O3 O2- 24 l 0.115(2) -.364(2) -.017(1) 1.8 1. 0
+O4 O2- 12 k 0.468(2) -.468(2) 0.102(2) 2.3 1. 0
+O5 O2- 12 k 0.219(1) -.219(1) 0.063(2) 0.8 1. 0
+O6 O2- 24 l 0.168(2) -.322(2) 0.178(1) 1.3 1. 0
+O7 O2- 12 k 0.429(2) -.429(2) -.154(2) 2.3 1. 0
+O8 O2- 24 l 0.034(3) -.324(3) 0.090(2) 4.3 1. 0
+O9 O2- 6 h 0.176(5) -.176(5) 0.25 5.8 0.6667 0
+O10 O2- 6 h 0.304(8) -.304(8) 0.25 2.7 0.3333 0
+O11 O2- 6 h 0.247(5) -.247(5) -.25 6.8 1. 0
+O12 O2- 12 j 0.052(10) -.312(11) -.25 12.6 1. 0
+O13 O2- 12 k 0.173(5) -.173(5) -.091(6) 10.6 1. 0
+O14 O2- 2 d 0.3333 -.3333 -.25 6.6 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+W1 W6+ 1.92(9) 1.92(9) 1.34(9) 1.09(12) 0.09(5) -.09(5)
+W2 W6+ 1.36(8) 1.67(8) 1.74(6) 0.53(8) -.11(8) 0.22(8)
+W3 W6+ 1.20(25) 1.20(25) 0.98(25) 0.88(26) 0 0
+W4 W6+ 2.51(62) 2.51(62) 2.36(72) 0.18(90) 0 0
+As1 As3+ 1.38(33) 1.38(33) 0.40(34) 0.69(17) 0 0
+Rb1 Rb1+ 4.74(56) 4.74(56) 2.41(42) 3.64(62) 0 0
+#End of TTdata_200737-ICSD

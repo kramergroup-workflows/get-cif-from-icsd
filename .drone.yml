@@ -2,8 +2,8 @@ kind: pipeline
 name: default
  
 steps:
-- name: container-build
-  image: docker
-  commands:
-  - docker build -t registry.kramergroup.science .
-  
+- name: kaniko
+  image: banzaicloud/drone-kaniko
+  settings:
+    repo: registry.kramergroup.science/workflows/get-cif-from-icsd
+    registry: registry.kramergroup.science

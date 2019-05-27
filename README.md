@@ -1,3 +1,5 @@
+[![Build Status](https://drone-ci-kramergroup.serveo.net/api/badges/kramergroup-workflows/get-cif-from-icsd/status.svg)](https://drone-ci-kramergroup.serveo.net/kramergroup-workflows/get-cif-from-icsd)
+
 # Obtain CIF from ICSD
 
 This container obtains a structure in CIF format from ICSD. This requires IP-based authorisation with the 
